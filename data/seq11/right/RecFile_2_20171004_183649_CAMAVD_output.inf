@@ -1,0 +1,5 @@
+892 // number of frames
+640 // horizontal frame size
+480 // vertical frame size
+GRAY // Data coding format
+MONO // Image type
